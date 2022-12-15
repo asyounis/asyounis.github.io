@@ -17,7 +17,7 @@ R. Trimananda, A. Younis, B. Wang, B. Xu, B. Demsky and G. Xu <br>
 
 
 <br><br><br>
-### Posters
+### POSTERS
 
 **<font size= "4">Securing Smart Home Devices against Compromised Cloud Servers</font>**  <br>
 R. Trimananda, A. Younis, T. Kwa and B. Demsky <br>
