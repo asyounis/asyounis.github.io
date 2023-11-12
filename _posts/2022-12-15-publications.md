@@ -8,7 +8,7 @@ style: center
 
 ### PUBLICATIONS
 
-**<font size= "4">    \item A. Younis, E. Sudderth. "Differentiable and Stable Long-Range Tracking of Multiple Posterior Modes".  Neurips 2023.</font>**  <br>
+**<font size= "4"> A. Younis, E. Sudderth. "Differentiable and Stable Long-Range Tracking of Multiple Posterior Modes".  Neurips 2023.</font>**  <br>
 Ali Younis, Erik B. Sudderth <br>
 To Appear at *Neural Information Processing Systems (Neurips), 2023* <br>
 
