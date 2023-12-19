@@ -8,9 +8,12 @@ style: center
 
 ### PUBLICATIONS
 
-**<font size= "4"> A. Younis, E. Sudderth. "Differentiable and Stable Long-Range Tracking of Multiple Posterior Modes".  Neurips 2023.</font>**  <br>
+**<font size= "4"> A. Younis, E. Sudderth. "Differentiable and Stable Long-Range Tracking of Multiple Posterior Modes"</font>**  <br>
 Ali Younis, Erik B. Sudderth <br>
-To Appear at *Neural Information Processing Systems (Neurips), 2023* <br>
+*Neural Information Processing Systems (Neurips), 2023* <br>
+[Paper]({{ site.url }}/assets/neurips_2023_paper/paper.pdf) · [Video](https://nips.cc/virtual/2023/poster/72889)
+
+<!-- you can [get the PDF]({{ site.url }}/assets/mydoc.pdf) directly. -->
 
 
 **<font size= "4">A Decoder Suffices for Query-Adaptive Variational Inference</font>**  <br>
