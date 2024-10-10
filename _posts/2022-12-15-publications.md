@@ -10,7 +10,7 @@ style: center
 
 **<font size= "4"> "Learning to be Smooth: An End-to-End Differentiable Particle Smoother"</font>**  <br>
 Ali Younis, Erik B. Sudderth <br>
-*(To Appear) Neural Information Processing Systems (Neurips), 2024 (to appear)* <br>
+*(To Appear) Neural Information Processing Systems (Neurips), 2024* <br>
 
 
 
