@@ -8,14 +8,14 @@ style: center
 
 ### PUBLICATIONS
 
-**<font size= "4"> "Learning to be Smooth: An End-to-End Differentiable Particle Smoother"</font>**  <br>
+**<font size= "4"> Learning to be Smooth: An End-to-End Differentiable Particle Smoother</font>**  <br>
 Ali Younis, Erik B. Sudderth <br>
 *Neural Information Processing Systems (Neurips), 2024* <br>
 [Paper]({{ site.url }}/assets/neurips_2024_paper/paper.pdf) · [Poster]({{ site.url }}/assets/neurips_2024_paper/poster.pdf) · [Video](https://neurips.cc/virtual/2024/poster/94821) · [Project Page](https://asyounis.github.io/mdps/) · [Code](https://github.com/asyounis/mdps)
 
 
 
-**<font size= "4"> "Differentiable and Stable Long-Range Tracking of Multiple Posterior Modes"</font>**  <br>
+**<font size= "4"> Differentiable and Stable Long-Range Tracking of Multiple Posterior Modes</font>**  <br>
 Ali Younis, Erik B. Sudderth <br>
 *Neural Information Processing Systems (Neurips), 2023* <br>
 [Paper]({{ site.url }}/assets/neurips_2023_paper/paper.pdf) · [Poster]({{ site.url }}/assets/neurips_2023_paper/poster.pdf) · [Video](https://nips.cc/virtual/2023/poster/72889) · [Code](https://github.com/asyounis/mdpf_neurips_2023)
