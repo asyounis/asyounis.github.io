@@ -7,7 +7,7 @@ style: center
 
 ### PhD Thesis
 **<font size= "4"> End-to-end Differentiable Learning of Particle Belief Propagation Algorithms</font>**  <br>
-Ali Younis, Erik B. Sudderth <br>
+Ali Younis <br>
 *Doctoral Thesis, University of California, Irvine. June 2025* <br>
 [Thesis]({{ site.url }}/assets/thesis/PhD_Thesis.pdf) 
 
