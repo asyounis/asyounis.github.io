@@ -5,7 +5,13 @@ color: black
 style: center
 ---
 
+### PhD Thesis
+**<font size= "4"> Learning to be Smooth: An End-to-End Differentiable Particle Smoother</font>**  <br>
+Ali Younis, Erik B. Sudderth <br>
+*Doctoral Thesis, University of California, Irvine. June 2025* <br>
+[Thesis]({{ site.url }}/assets/thesis/thesis.pdf) 
 
+<br><br><br>
 ### PUBLICATIONS
 
 **<font size= "4"> Learning to be Smooth: An End-to-End Differentiable Particle Smoother</font>**  <br>
