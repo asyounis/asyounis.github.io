@@ -1,1 +1,1 @@
-&copy; 2025 Ali Younis with [Jekyll](https://jekyllrb.com/) & [SinglePaged](https://github.com/t413/SinglePaged)
+&copy; 2026 Ali Younis with [Jekyll](https://jekyllrb.com/) & [SinglePaged](https://github.com/t413/SinglePaged)
